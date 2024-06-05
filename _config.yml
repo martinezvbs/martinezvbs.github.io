@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Juan M. Martinez-Villalobos / Site"
+title                    : "Title / Site"
 title_separator          : "-"
 name                     : &name "Juan M. Martinez-Villalobos"
 description              : &description "personal description"
